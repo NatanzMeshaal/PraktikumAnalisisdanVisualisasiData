@@ -2,8 +2,8 @@
 
 Proyek ini bertujuan untuk mengevaluasi performa penjualan pada sebuah platform e-commerce guna mengetahui pola penjualan, efektivitas pemasaran, serta segmentasi pelanggan. Hasil analisis diharapkan dapat menjadi dasar pengambilan keputusan strategis untuk meningkatkan pendapatan dan efisiensi bisnis.
 
-Anggota Kelompok
-Ahmad Zainur Royyan | XI RPL 8 | 06
+Anggota Kelompok <br>
+Ahmad Zainur Royyan | XI RPL 8 | 06 <br>
 Natanz Meshaal Saptoaji | XI RPL 8 | 26
 
 ## 1. Business Question
