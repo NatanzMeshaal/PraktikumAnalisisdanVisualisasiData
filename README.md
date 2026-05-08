@@ -27,7 +27,7 @@ Tahapan persiapan dan pembersihan data meliputi:
 
 ### Tren Penjualan
 
-![Tren Penjualan Bulanan](trenpenjualan.png)
+![Tren Penjualan Bulanan](data_tren_penjualan.png)
 
 Penjualan mengalami perubahan yang cukup fluktuatif pada setiap bulan sepanjang tahun 2023.
 
