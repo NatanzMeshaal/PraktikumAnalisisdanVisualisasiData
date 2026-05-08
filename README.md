@@ -33,7 +33,7 @@ Penjualan mengalami perubahan yang cukup fluktuatif pada setiap bulan sepanjang 
 
 ### Efektivitas Iklan dan ROI
 
-![Efisiensi Iklan per Kategori](efisiensiiklan.png)
+![Efisiensi Iklan per Kategori](data_efisiensi_iklan.png)
 
 * **Korelasi Sangat Lemah:** Hubungan antara `Ad_Budget` dan `Total_Sales` hanya sebesar **0.035**, sehingga menunjukkan pengaruh iklan terhadap penjualan sangat kecil.
 * **ROI Tertinggi:** Kategori **Electronics** memiliki performa iklan terbaik dengan ROI sebesar **1.43**.
